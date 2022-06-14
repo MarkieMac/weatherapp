@@ -1,0 +1,74 @@
+h3,
+h5 {
+  color: #2334f7;
+  opacity: 50%;
+  text-align: center;
+}
+
+.card-text {
+  text-align: center;
+  font-size: 75px;
+}
+
+.container {
+  height: 500px;
+  padding: 10px;
+  background: linear-gradient(#d9edfd, #fad9fc);
+  border-radius: 25px;
+  max-width: fit-content;
+}
+
+.unit-links {
+  color: #f4e711;
+}
+
+.card-body {
+  width: 300px;
+  right: 415px;
+}
+.card-texts {
+  text-align: center;
+  border-radius: 15px;
+  background: linear-gradient(#2334f7, #f1b7cc);
+  color: #f4e711;
+  padding: 40px;
+}
+
+.emojis {
+  font-size: 35px;
+}
+
+.city {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+input.searchbutton {
+  background-color: #ffff;
+  border-radius: 10px;
+  color: #f1b7cc;
+  border: none;
+}
+
+input.typecity {
+  color: #2334f7;
+}
+
+.card-weather {
+  display: flex;
+  top: 200px;
+  left: 50x;
+  background: linear-gradient(#2334f7, #f1b7cc);
+  list-style-type: none;
+  text-align: center;
+  border-radius: 15px;
+  max-width: 300px;
+}
+
+.signature {
+  color: #2334f7;
+  position: absolute;
+  top: 500px;
+  right: 475px;
+}
